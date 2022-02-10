@@ -3,4 +3,8 @@ No se en que año nacio.
 
 Esto es un nuevo cambio a mi archivo
 
+<<<<<<< HEAD
 Su edad es de 73 años 
+=======
+Aun no me ha dicho su edad
+>>>>>>> biografiamadre
